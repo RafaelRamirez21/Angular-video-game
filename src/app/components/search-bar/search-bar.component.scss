@@ -7,15 +7,18 @@ $mainColor:#407e15;
     background-color: #323a45;
     display: flex;
     justify-content: flex-start;
-    align-items: fixed;
+    align-items: center;
     top:0;
     left:0;
     z-index:4;
+
   }
   &-forms{
     width: 100%;
     max-width: 1200px;
-    margin: 0 auto;
+    margin: 2px auto;
+    display: block;
+    
   }
   &-input{
     margin-left:10px;
