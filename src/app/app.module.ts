@@ -36,7 +36,8 @@ import { GameTabsComponent } from './components/game-tabs/game-tabs.component';
     GaugeModule.forRoot(),
     MatFormFieldModule,
     MatTabsModule,
-    MatSelectModule
+    MatSelectModule,
+    MatIconModule
   ],
   providers: [
     {
